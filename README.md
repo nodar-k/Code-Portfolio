@@ -56,7 +56,7 @@ In this concept proposal, I would be looking at the spillback tranmission dynami
 ![SamplingHarriman](https://user-images.githubusercontent.com/99552141/185225956-b0a50968-ad04-4aa1-84f3-620e55d4c4bf.png)
 
 
-## Publications List
+# Publications List
 1. Kakabadze Z, Kipshidze N, Paresishvili T, Kipshidze N, Vadachkoria Z, Chakhunashvili D. Human Placental Mesenchymal Stem Cells for the Treatment of ARDS in Rat. Stem Cells Int. 2022
 2. Kipshidze N, Kipshidze N, Fried M. COVID-19 Vaccines: Special Considerations for the Obese Population. Obes Surg. 2021.
 3. Fried M, Kipshidze N, Sramkrova P, et al. Metabolic Outcomes of Percutaneous Transcathether Bariatric Embolotherapy: Insights from an RCT. Obes Surg. 2021.
@@ -80,7 +80,7 @@ In this concept proposal, I would be looking at the spillback tranmission dynami
 21. Kipshidze N, Rukhadze I, Archvadze A, Kipiani V, Kipshidze N, Lapiashvili E, Kaloiani V: Endovascular treatment of patients with chronic cerebrospinal venous insufficiency and Multiple sclerosis. Georgian Med News 2011(199):29-34.
 22. Kipshidze N. Does over-exuberance affect the orbitofrontal cortex and/or anterior cingulated cortex differently during decision-making? Cardiology and Internal Medicine 2010(12):114-118
 
-## Recent Conference Abstracts and Posters
+# Recent Conference Abstracts and Posters
 1.	Kipshidze, N., Kakabadze, Z., Janelidze, N., Kipshidze, N., & Rosen, R. (2020). Associations Between Tumor Feeding Intra-arterial Pressure And Interstitial Fluid Pressure Of Solid Tumors: Intraoperative Findings ECIO Virtual: Interventional Oncology,  
 2.	Kipshidze, N., White, C., Kipshidze, N., Reddy, V., & Dangas, G. (2020). Transcatheter Therapies for COVID-19. TCT Connect
 3.	Reddy, V., Fried, M., Neuzil, P., Rosen, R., Sramkova, P., Kipshidze, N., & Kipshidze, N. (2020). Percutaneous Transcatheter Bariatric Embolotherapy For Weight Loss In Obesity: Two Year Data From A Prospective RCT. ESC Congress, 
