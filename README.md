@@ -11,6 +11,8 @@ This portfolio contains some of my coding in R and SAS for more recent research 
 
 | Project Name  | Project Description | Coding Language |
 | ------------- | ------------- | ------------- |
-| 🦟 Yellow Fever Vaccinations [Go to code here](/Yellow-Fever-Models.Rmd)  | Our team created a multi-host SEIR model to simulate a YFV outbreak and the impacts of vaccination on short and long-term epidemic tranmission dynamics. My role specificially was conceptualizing the mathemtical models and all the coding in R |  R |
-| 💉 Delayed Vaccinations [Go to code here](/VaxStudy.sas)  | Ongoing ecological study to understand the impacts of delayed vaccinations in low and lower-middle income countries. I an responsible for the study design, data analysis, and coding. Part of the project is also being completed in R. This portion is just onece piece of the larger code. | SAS  |
-
+| 🦟 [Yellow Fever Vaccinations](/Yellow-Fever-Models.Rmd)  | Our team created a multi-host SEIR model to simulate a YFV outbreak and the impacts of vaccination on short and long-term epidemic tranmission dynamics. My role specificially was conceptualizing the mathemtical models and all the coding in R |  R |
+| 💉 [Delayed Vaccinations](/VaxStudy.sas)  | Ongoing ecological study to understand the impacts of delayed vaccinations in low and lower-middle income countries. I an responsible for the study design, data analysis, and coding. Part of the project is also being completed in R. This portion is just onece piece of the larger code. | SAS  |
+| 🏥 [NYC COVID-19 Hospitlizations](/NYC-COVID-Hospitalizations.sas)  | One part of a larger midterm where we looked at NYC COVID-19 hospitlizations. The data was pulled directly from the NYC Health GitHub | SAS  |
+| 🤧 [Ebola Tranmission Dynamics](/Ebola-Model.R)  | Simulated the tranmission dynamics of the 2014 West African Ebola Outbreak overall and by countries affected (Guinea, Liberia, and Sierra Leone | R  |
+| 💉 [Vaccine Uptake and Insurance Coverage](/Vax-Uptake-NHANES.sas)  | Looking at the impact of insurance coverage on Hep A, Hep B, and HPV vaccine uptake using two cylces of NHANES. I primarily did all the analysis and the first run of the SAS code and annoations. | SAS  |
