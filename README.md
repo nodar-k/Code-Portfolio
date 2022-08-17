@@ -9,6 +9,7 @@
 
 This portfolio contains some of my coding in R and SAS for more recent research projects. Some of these projects are still ongoing, so please do not copy or share these code outside of the purposes to review my coding skills and abilities.
 
+
 ## Table of some recent projects and associated code or code snippets
 | Project Name  | Project Description | Coding Language |
 | ------------- | ------------- | ------------- |
