@@ -22,7 +22,7 @@ This portfolio contains some of my coding in R and SAS for more recent research 
 
 | Project Name  | Project Description | Coding Language |
 | ------------- | ------------- | ------------- |
-| 🦟 [Yellow Fever Vaccinations](/codes/Yellow-Fever-Models.Rmd)  | Our team created a multi-host SEIR model to simulate a YFV outbreak and the impacts of vaccination on short and long-term epidemic transmission dynamics. My role specifically was conceptualizing the mathematical models and all the coding in R |  R |
+| 🦟 [Yellow Fever Vaccinations](nodar-k/Code-Portfolio/blob/main/codes/Yellow-Fever-Models.Rmd)  | Our team created a multi-host SEIR model to simulate a YFV outbreak and the impacts of vaccination on short and long-term epidemic transmission dynamics. My role specifically was conceptualizing the mathematical models and all the coding in R |  R |
 | 💉 [Delayed Vaccinations](/codes/VaxStudy.sas)  | Ongoing ecological study to understand the impacts of delayed vaccinations in low and lower-middle income countries. I am responsible for collaborating on the study design and leading the data analysis and coding. Part of the project is also being completed in R. This portion is just one piece of the larger code. | SAS |
 | 🏥 [NYC COVID-19 Hospitalizations](/codes/NYC-COVID-Hospitalizations.sas)  | One part of a larger midterm where we looked at NYC COVID-19 hospitalizations. The data was pulled directly from the NYC Health GitHub | SAS  |
 | 🤧 [Ebola Transmission Dynamics](/codes/Ebola-Model.R)  | Simulated the transmission dynamics of the 2014 West African Ebola Outbreak overall and by countries affected (Guinea, Liberia, and Sierra Leone | R  |
