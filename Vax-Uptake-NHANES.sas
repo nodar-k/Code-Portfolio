@@ -1,20 +1,3 @@
-**************************************************************************************
-**	P8483: Spring 2021														     	
-**	Final Project									
-**	Group: 10																		
-**  Names: Eli Binder, Jennifer Estrada, Nodar Kipshidze, Mo Mihaley, Junyu Qi, Nitya Talreja, Yueran Zhang                                                     
-**  UNIs:	eb3420, jae2186, nk2988, mkm2237, jq2342, njt2118, yz4188															        
-**************************************************************************************;
-
- /* RUBRIC 
-● SAS Editor File is CLEARLY annotated with description of each step (code or 
-decision in analysis) being performed and the reason for each step being 
-performed (10 pts.)
-● SAS Editor file clearly states where every reported number in the 
-Abstract/Tables/Figures comes from (For e.g. OR= 2.0 See Abstract Result and 
-Table 1) (max 15 pts.)
-
-
 /*	SECTION ONE: DATA CLEANING AND COMPILATION 
 	In this section, we will be capturing dataset that contains our research of interest from NHANES and create a large merged datasets with only the variables of interest.
 	Also we will be creating and manipulating exposure/outcome/confounder variables from the datasets for the analysis purpose. */
