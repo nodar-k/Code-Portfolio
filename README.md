@@ -9,8 +9,16 @@
 
 This portfolio contains some of my coding in R and SAS for more recent research projects. Some of these projects are still ongoing, so please do not copy or share these code outside of the purposes to review my coding skills and abilities.
 
+- [Codes and code snippets](#codes-and-code-snippets)
+- [Geospaitial studies](#geospaital-studies)
+    - [Tick Denisty](#methods-of-predicting-tick-density)
+    - [Tick Denisty](#methods-of-predicting-tick-density)
+- [Publications List](#publications-list)
+- [Conerence Abstracts](#recent-conference-abstracts-and-posters)
 
-## Table of some recent projects and associated code or code snippets
+
+# Codes and Code Snippets
+### Table of some recent projects and associated code or code snippets
 | Project Name  | Project Description | Coding Language |
 | ------------- | ------------- | ------------- |
 | 🦟 [Yellow Fever Vaccinations](/Yellow-Fever-Models.Rmd)  | Our team created a multi-host SEIR model to simulate a YFV outbreak and the impacts of vaccination on short and long-term epidemic transmission dynamics. My role specifically was conceptualizing the mathematical models and all the coding in R |  R |
@@ -20,8 +28,8 @@ This portfolio contains some of my coding in R and SAS for more recent research 
 | 💉 [Vaccine Uptake and Insurance Coverage](/Vax-Uptake-NHANES.sas)  | Looking at the impact of insurance coverage on Hep A, Hep B, and HPV vaccine uptake using two cycles of NHANES. I primarily did all the analysis and the first run of the SAS code and annotations. | SAS  |
 | 💊 [PrEP Uptake among cis-gender Black women](/PrepUptake-MetaAnalysis.R)  | A systematic review and proportional meta-analysis on observational studies looking at knowledge of and willingness to uptake PrEP among cis-gender Black women in America. My role was to code and run the meta-analysis. | R |
 
-## Geospaital Studies
-### Methods of Predicting Tick Density
+# Geospaital Studies
+## Methods of Predicting Tick Density
 ![combo](https://user-images.githubusercontent.com/99552141/185223019-846b5fca-93eb-4e7e-b571-755bb4b108e0.png)
 For this mini project, I used data from a previous study by [Diuk-Wasser and colleagues](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1466-8238.2010.00526.x). I compared predicted *Ixodes scapularis* nymphs density to observed density between 2004-2006 in the United States. I compared two methods of prediction: density interpolated by inverse distance weighting (IDW) [Figure A] and density predicted by zero-inflated negative binomial model [Figure B].
 
@@ -42,7 +50,7 @@ P ̂=exp⁡(γ ̂_0+γ ̂_1 z_1+γ ̂_2 z_2+⋯)/[1+exp⁡(γ ̂_0+γ ̂_1 z_1+�
 
 While the model was built and trained based on the observed data, it still will generate the expected density based on the predictors. Therefore, in areas such as Minnesota, where there are small patches of high density. The model estimates that this area would have low density based on the model predictors. In comparison, the IDW method estimates this area to have a patch of high density because the observed data had a patch of high density.
 
-### SARS-CoV-2 Spillback in White Tail Deer
+## SARS-CoV-2 Spillback in White Tail Deer
 In this concept proposal, I would be looking at the spillback tranmission dynamics of SARS-CoV-2 from humans to white tail deer (WTD) in New York State following some previoulsy published work. The GIS-portion of this proposal included creating geospaital views of the sampling areas and sampling grids.
 ![FullMap](https://user-images.githubusercontent.com/99552141/185225910-9db2776c-b7ab-4bf3-8066-19427137070b.png)
 ![SamplingHarriman](https://user-images.githubusercontent.com/99552141/185225956-b0a50968-ad04-4aa1-84f3-620e55d4c4bf.png)
